@@ -12,3 +12,6 @@ class BrowserFactory:
 
     def getBrowserTitle(self):
         return globalVar.driver.title
+
+    def closeBrowser(self):
+        globalVar.driver.close()

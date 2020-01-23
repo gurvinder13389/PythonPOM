@@ -1,2 +1,3 @@
 appUrl : https://www.flipkart.com
-chromePath : \\Resources\\chromedriver.exe
+chromePath : /Resources/chromedriver
+Brand : Sony
